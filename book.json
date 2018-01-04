@@ -1,0 +1,14 @@
+{
+	"gitbook": "2.x",
+	"title": "ECMAScript 6入门",
+	"description": "<ECMAScript 6入门>PDF版",
+	"author":"阮一峰",
+	"language": "zh-hans",
+	"structure": {
+		"readme": "README.md"
+	},
+	"plugins": [
+		"katex",
+		"-search"
+	]
+}
